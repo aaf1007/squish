@@ -16,6 +16,6 @@ Video: `squish-demo.mp4` (1920×1080, 60 fps, ~46 s, no audio). Upload it as a n
 
 ## First comment (post it yourself right after the video)
 
-> Link: <your deployed URL>
+> Link: https://squish-weld.vercel.app
 >
 > Built with React and plain CSS, with no canvas or animation library. The shapes morph by interpolating 180 sampled radii, and the same CSS drives the live preview, the animated SVG export and the video export. Happy to answer questions.

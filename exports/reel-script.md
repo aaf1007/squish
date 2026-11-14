@@ -104,6 +104,6 @@ What they have in common:
 
 ## Before you post
 
-- The site has to be live before you can send anyone the link. It is not deployed yet.
+- The site is live at https://squish-weld.vercel.app. That is the link to send.
 - "Comment 'mascot'" means you reply to each comment with the link yourself, or set up an auto-reply tool. Have the link ready.
 - If you'd rather not show your face, replace shot A with shot B and say the hook as voiceover over it.
