@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "squish", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev", "--", "--port", "5183", "--strictPort"], "port": 5183 },
+    { "name": "squish-prod", "runtimeExecutable": "npm", "runtimeArgs": ["run", "preview", "--", "--port", "5184", "--strictPort"], "port": 5184 }
+  ]
+}
